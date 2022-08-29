@@ -13,8 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mapadilha/clean-node-api-final/issues"
-  },
-  "homepage": "https://github.com/mapadilha/clean-node-api-final#readme"
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.3.11"
+  }
 }
