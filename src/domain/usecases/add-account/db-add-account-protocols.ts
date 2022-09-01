@@ -1,4 +1,0 @@
-export * from '../../../domain/usecases/add-account'
-export * from '../../../domain/models/account'
-export * from '../../../presentation/protocols/encrypter'
-export * from '../../../presentation/protocols/add-account-repository'
